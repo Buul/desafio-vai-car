@@ -1,0 +1,7 @@
+export const TOKEN_KEY_VAI_CAR = 'TOKEN_KEY_VAI_CAR';
+
+// ACTIONS //
+export const BUSY_COUNTER_ADD = 'BUSY_COUNTER_ADD';
+export const BUSY_COUNTER_REMOVE = 'BUSY_COUNTER_REMOVE';
+export const DIALOG_ADD = 'DIALOG_ADD';
+export const DIALOG_REMOVE = 'DIALOG_REMOVE';
